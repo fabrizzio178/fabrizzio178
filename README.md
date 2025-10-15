@@ -32,20 +32,6 @@ Soy un entusiasta del aprendizaje constante y actualmente me encuentro realizand
 
 </div>
 
----
-
-### 📊 Mis estadísticas en GitHub
-
-<div align="center">
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=fabrizzio178&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fabrizzio178&layout=compact&theme=tokyonight&hide_border=true)  
-![GitHub Streak](https://streak-stats.demolab.com?user=fabrizzio178&theme=tokyonight&hide_border=true)
-
-</div>
-
----
-
 ### 💬 Conectemos
 
 📫 **Email:** [fabrizziosana10@gmail.com](mailto:fabrizziosana10@gmail.com)  
@@ -53,4 +39,3 @@ Soy un entusiasta del aprendizaje constante y actualmente me encuentro realizand
 🐙 **GitHub:** [github.com/fabrizzio178](https://github.com/fabrizzio178)
 
 ---
-
