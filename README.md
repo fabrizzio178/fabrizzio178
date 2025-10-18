@@ -6,8 +6,8 @@
 
 ### 🚀 Sobre mí
 
-Soy un apasionado del **desarrollo de software**, los **patrones de diseño** y la **arquitectura de sistemas**.  
-Me encanta comprender cómo las piezas de un sistema encajan entre sí y cómo la buena ingeniería puede transformar ideas en soluciones escalables y elegantes.
+Soy un apasionado del **desarrollo de software**. 
+Me encanta comprender cómo las piezas de un sistema encajan entre sí y cómo la buena ingeniería puede transformar ideas en soluciones robustas.
 
 Siempre estoy buscando mejorar mis habilidades y aprender nuevas tecnologías.  
 Soy un entusiasta del aprendizaje constante y actualmente me encuentro realizando la **tesis para el título intermedio de Analista en Sistemas** en UTN FRC.
