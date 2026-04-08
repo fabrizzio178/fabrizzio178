@@ -35,7 +35,7 @@ Además, soy Analista en Sistemas, conseguí el título intermedio que brinda la
 ### 💬 Conectemos
 
 📫 **Email:** [fabrizziosana10@gmail.com](mailto:fabrizziosana10@gmail.com)  
-💼 **LinkedIn:** [linkedin.com/in/fabrizzio-sana-54511630b](https://www.linkedin.com/in/fabrizzio-sana-54511630b/)  
+💼 **LinkedIn:** [linkedin.com/in/fabrizzio-sana/](https://www.linkedin.com/in/fabrizzio-sana/)  
 🐙 **GitHub:** [github.com/fabrizzio178](https://github.com/fabrizzio178)
 
 ---
